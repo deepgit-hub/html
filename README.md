@@ -1,5 +1,4 @@
  🚀 HTML Practice Repository (HTML-50)
-
 This repository contains my HTML practice exercises as part of my journey to become a skilled developer.
 
 📌 About
