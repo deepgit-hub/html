@@ -27,7 +27,7 @@ Semantic HTML
 Build strong HTML fundamentals
 Practice consistency
 Prepare for real-world projects
-For 
+For my
 
 💡 Note
 
